@@ -6,4 +6,4 @@ Reunión del grupo de usuarios de git - 1-6-2021
 Enlaces:
 
 * [Evento en Meeetup](https://www.meetup.com/Spanish-Git-Meetup/events/277959808/)
-* [Repositorio con la demo]()
+* [Repositorio con la demo](https://github.com/alfonso-slides/git-worktrees-demo)
